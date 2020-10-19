@@ -1,0 +1,12 @@
+---
+title: "texto"
+author: "Jorge"
+date: "10/19/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## texto markdown
